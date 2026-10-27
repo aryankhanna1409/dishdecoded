@@ -13,6 +13,14 @@
 
 </div>
 
+<div align="center">
+
+![DishDecoded demo](assets/demo.gif)
+
+<sub>Recorded in demo mode: decoding a dish, its allergens, story and recipe, then a Thai menu and a pantry list.</sub>
+
+</div>
+
 ## Why
 
 Travelling, or just at a restaurant with an unfamiliar menu, you often can't tell what a dish is, whether it's safe for your allergies, or how to say its name. Food apps mostly count calories. DishDecoded explains the food instead.
