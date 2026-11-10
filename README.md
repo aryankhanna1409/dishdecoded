@@ -1,17 +1,15 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="DishDecoded: snap a dish or menu, find out what it is and how to make it" />
+<img src="assets/banner.svg" width="100%" alt="dishdecoded: stop 5 of 5 in the loop, SHIP" />
 
 **Point your camera at a dish or a menu. Find out what it is, what's in it, where it comes from, and how to make it at home.**
 
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_vision-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-![License: MIT](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+
+![Next.js 15](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&labelColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square) ![Claude vision](https://img.shields.io/badge/Claude-vision-000000?style=flat-square&labelColor=ffffff) ![Zod](https://img.shields.io/badge/Zod-000000?style=flat-square) ![license MIT](https://img.shields.io/badge/license-MIT-000000?style=flat-square&labelColor=ffffff)
 
 </div>
+
+> **Stop 5 of 5 · SHIP.** The last stop is the one people touch: a small product built on the same idea of structured, checked AI output. Previous: [nexus](https://github.com/aryankhanna1409/nexus). See [the whole loop](https://github.com/aryankhanna1409).
 
 <div align="center">
 
@@ -29,15 +27,15 @@ Travelling, or just at a restaurant with an unfamiliar menu, you often can't tel
 
 DishDecoded has seven features, and they all run on **one shared engine**. A vision model turns a photo, a menu or a dish name into a structured *dish profile*. Each feature is a thin layer on top of that profile.
 
-| | Feature | What you get |
+| # | Feature | What you get |
 | --- | --- | --- |
-| 📷 | **Dish identifier** | Name, native script, pronunciation with audio, origin, a plain description, and a confidence score with "could also be" alternatives |
-| ⚠️ | **Allergen and diet checker** | Likely allergens and the fit for vegan, vegetarian, halal, kosher, keto and gluten-free diets, checked against *your* saved allergies |
-| 🌶️ | **Flavor and pairings** | A six-axis flavor radar, drinks and sides that go with it, and similar dishes from other cuisines |
-| 📜 | **Food culture explorer** | The dish's history, regional variations, how locals eat it and a fun fact |
-| 🍳 | **Recipe reverse-engineering** | A home recipe with swaps for ingredients that are hard to find where you live |
-| 🧾 | **Menu decoder** | Reads a menu in any language, explains every dish and ranks the best picks for you |
-| 🥚 | **Cook it with what I have** | Type what's in your fridge or snap a photo of it, and get dishes you can make tonight |
+| 01 | **Dish identifier** | Name, native script, pronunciation with audio, origin, a plain description, and a confidence score with "could also be" alternatives |
+| 02 | **Allergen and diet checker** | Likely allergens and the fit for vegan, vegetarian, halal, kosher, keto and gluten-free diets, checked against *your* saved allergies |
+| 03 | **Flavor and pairings** | A six-axis flavor radar, drinks and sides that go with it, and similar dishes from other cuisines |
+| 04 | **Food culture explorer** | The dish's history, regional variations, how locals eat it and a fun fact |
+| 05 | **Recipe reverse-engineering** | A home recipe with swaps for ingredients that are hard to find where you live |
+| 06 | **Menu decoder** | Reads a menu in any language, explains every dish and ranks the best picks for you |
+| 07 | **Cook it with what I have** | Type what's in your fridge or snap a photo of it, and get dishes you can make tonight |
 
 ## Screenshots
 
@@ -132,3 +130,13 @@ Ingredients and allergens are AI estimates based on typical recipes, and recipes
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<div align="center">
+
+<img src="assets/loop.svg" width="100%" alt="dishdecoded is one stop in a loop: move, see, know, act, ship" />
+
+<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five stops, from robots to AI systems.</sub>
+
+</div>
