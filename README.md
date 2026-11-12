@@ -5,11 +5,11 @@
 **Point your camera at a dish or a menu. Find out what it is, what's in it, where it comes from, and how to make it at home.**
 
 
-![Next.js 15](https://img.shields.io/badge/Next.js-15-000000?style=flat-square&labelColor=ffffff) ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square) ![Claude vision](https://img.shields.io/badge/Claude-vision-000000?style=flat-square&labelColor=ffffff) ![Zod](https://img.shields.io/badge/Zod-000000?style=flat-square) ![license MIT](https://img.shields.io/badge/license-MIT-000000?style=flat-square&labelColor=ffffff)
+![Next.js 15](https://img.shields.io/badge/Next.js-15-8a5a22?style=flat-square&labelColor=1d120b) ![TypeScript](https://img.shields.io/badge/TypeScript-3b2416?style=flat-square) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3b2416?style=flat-square) ![Claude vision](https://img.shields.io/badge/Claude-vision-8a5a22?style=flat-square&labelColor=1d120b) ![Zod](https://img.shields.io/badge/Zod-3b2416?style=flat-square) ![license MIT](https://img.shields.io/badge/license-MIT-8a5a22?style=flat-square&labelColor=1d120b)
 
 </div>
 
-> **Stop 5 of 5 · SHIP.** The last stop is the one people touch: a small product built on the same idea of structured, checked AI output. Previous: [nexus](https://github.com/aryankhanna1409/nexus). See [the whole loop](https://github.com/aryankhanna1409).
+> **Stop 5 of 5 · SHIP · the Serve.** The last stop is the one people touch: a small product built on the same idea of structured, checked AI output. Previous: [nexus](https://github.com/aryankhanna1409/nexus). See [the whole loop](https://github.com/aryankhanna1409).
 
 <div align="center">
 
@@ -135,8 +135,8 @@ Ingredients and allergens are AI estimates based on typical recipes, and recipes
 
 <div align="center">
 
-<img src="assets/loop.svg" width="100%" alt="dishdecoded is one stop in a loop: move, see, know, act, ship" />
+<img src="assets/loop.svg" width="100%" alt="dishdecoded is one pour in a loop: move, see, know, act, ship" />
 
-<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five stops, from robots to AI systems.</sub>
+<sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five pours, from robots to AI systems.</sub>
 
 </div>
