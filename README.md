@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="dishdecoded: stop 5 of 5 in the loop, SHIP" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg" /><img src="assets/banner.svg" width="100%" alt="dishdecoded: stop 5 of 5 in the loop, SHIP" /></picture>
 
 **Point your camera at a dish or a menu. Find out what it is, what's in it, where it comes from, and how to make it at home.**
 
@@ -135,7 +135,7 @@ Ingredients and allergens are AI estimates based on typical recipes, and recipes
 
 <div align="center">
 
-<img src="assets/loop.svg" width="100%" alt="dishdecoded is one pour in a loop: move, see, know, act, ship" />
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/loop-light.svg" /><img src="assets/loop.svg" width="100%" alt="dishdecoded is one pour in a loop: move, see, know, act, ship" /></picture>
 
 <sub>Part of <a href="https://github.com/aryankhanna1409">Aryan Khanna's portfolio</a>: one loop, five pours, from robots to AI systems.</sub>
 
